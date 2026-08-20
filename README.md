@@ -1,6 +1,6 @@
 # daily_expense_tracker
 
-A new Flutter project.
+A new Flutter project made with a Hive local database integration.
 
 ## Getting Started
 
